@@ -12,10 +12,10 @@
   对仓库里面的文件稍微整理了一下，第一周的文件全都在Week_1里面，第二周的代码在/Week_2/Source/里面。 
 
   
-  语雀笔记：  
-  Docker：https://www.yuque.com/qiegao-hhxaz/vv3dvo/vhnhqgtrnw8izrgi   
-  CMake：https://www.yuque.com/qiegao-hhxaz/vv3dvo/gzu0vzuplzgxi76s   
+  语雀笔记：    
+  CMake：https://www.yuque.com/qiegao-hhxaz/vv3dvo/gzu0vzuplzgxi76s     
   第二周实践任务：https://www.yuque.com/qiegao-hhxaz/vv3dvo/yo105on0tbesta0s   
+  Docker：https://www.yuque.com/qiegao-hhxaz/vv3dvo/vhnhqgtrnw8izrgi     
 
   
   关于实践任务：        
@@ -26,4 +26,5 @@ cmake ..
 make
 ```
 代码采用C++11标准。生成的可执行文件`CryptoTool`必须在Linux系统的终端中运行，请见谅。
+
 
