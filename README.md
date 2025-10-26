@@ -28,3 +28,10 @@ make
 代码采用C++11标准。生成的可执行文件`CryptoTool`必须在Linux系统的终端中运行，请见谅。
 
 
+# Week 3   
+
+  语雀笔记：  
+  OpenCV: https://www.yuque.com/qiegao-hhxaz/vv3dvo/hlnq4saxhnfeduv9  
+  第三周实践任务: https://www.yuque.com/qiegao-hhxaz/vv3dvo/kon55drkqnonp1lq  
+  实践任务的源文件、CMakeLists.txt、原视频、输出视频均位于Week_3/文件夹下。  
+  
