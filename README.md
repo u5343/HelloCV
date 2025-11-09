@@ -35,5 +35,12 @@ make
   第三周实践任务: https://www.yuque.com/qiegao-hhxaz/vv3dvo/kon55drkqnonp1lq  
   实践任务的源文件、CMakeLists.txt、原视频、输出视频均位于Week_3/文件夹下。  
   另外，Week_3/result.avi也被我发布在了Github的Release里面。  
+
+# Week 4  
+
+  语雀笔记：  
+  ROS2:https://www.yuque.com/qiegao-hhxaz/vv3dvo/xsml8i4okebnets4    
+  Gazebo：https://www.yuque.com/qiegao-hhxaz/vv3dvo/sa2ob8esmtkuc7ps
   
+
 
